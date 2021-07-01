@@ -13,6 +13,6 @@ Ships move across the grid moving in a NORTH, EAST, SOUTH, or WEST direction. If
 Written in C++ practicing class inheritance. CMake is used to generate the build file.
 
 ## Authors:
-https://github.com/Munchinator6354 - Ryan Isaacson
-GitHub Account Pending - Angelo Delos Santos
-https://github.com/Weegee847 - Chidera Mbara
+https://github.com/Munchinator6354 - Ryan Isaacson  
+GitHub Account Pending - Angelo Delos Santos  
+https://github.com/Weegee847 - Chidera Mbara  
