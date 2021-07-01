@@ -9,4 +9,8 @@ BorgVsTheFederation is an example of a simple simulation grid written in C++. Th
 ## How It Works:
 Ships move across the grid moving in a NORTH, EAST, SOUTH, or WEST direction. If a ship encounters an enemy vessel the ship with the higher energy remains intact while the other is removed from the grid. The winning ship takes and sustains damage accordingly. Borg ships are in green, Federation ships are in blue. If you look closely there is a teal ship, which is a ProtagonistClass vessel for the federation. It can spawn more basic Federation ships when flying SOUTH very similar to the Homeworlds which also spawn basic ships periodically.
 
+## Technologies Used:
+Written in C++ practicing class inheritance. CMake is used to generate the build file.
 
+## Authors:
+Ryan Isaacson, Angelo Delos Santos, and Chidera Mbara
