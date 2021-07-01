@@ -3,4 +3,4 @@ Constructs a simulation of The Borg Collective battling The Federation to destro
 
 Project is finished and will be uploaded by end of July 2021
 
-<img src="res/readMeContent/BVFgif.gif" width="700" height="1000"/>
+<img src="res/readMeContent/BVFgif.gif" width="350" height="600"/>
