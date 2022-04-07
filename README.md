@@ -14,5 +14,5 @@ Written in C++ practicing class inheritance. CMake is used to generate the build
 
 ## Authors:
 https://github.com/Munchinator6354 - Ryan Isaacson  
-GitHub Account Pending - Angelo Delos Santos  
+https://github.com/Ilcaelum - Angelo Delos Santos  
 https://github.com/Weegee847 - Chidera Mbara  
